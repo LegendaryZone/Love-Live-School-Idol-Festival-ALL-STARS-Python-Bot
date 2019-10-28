@@ -28,7 +28,7 @@ class API(object):
 		self.s.verify=False
 		if 'win' in sys.platform:
 			self.s.proxies.update({'http': 'http://127.0.0.1:8888','https': 'https://127.0.0.1:8888',})
-		self.game_api='https://jp-real-prod-v4tadlicuqeeumke.api.game25.klabgames.net/ep1010'
+		self.game_api='https://jp-real-prod-v4tadlicuqeeumke.api.game25.klabgames.net/ep1015'
 		self.auth_count=1
 		self.startupkey='G5OdK4KdQO5UM2nL'
 		self.publicKey='''-----BEGIN PUBLIC KEY-----
