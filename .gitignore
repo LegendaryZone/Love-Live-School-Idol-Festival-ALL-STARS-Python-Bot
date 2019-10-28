@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+test.py
+*.chls
+dec.py
+parser.py
+*.chlsj
+db/
+*.db
